@@ -1,3 +1,1 @@
 # moviedex-api
-# moviedex
-# moviedex
